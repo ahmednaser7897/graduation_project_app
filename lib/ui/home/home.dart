@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
           builder: (context, state) {
             return Scaffold(
               body: (state is LoadinSendImages)
-                  ? const Center(
+                  ? Center(
                       child: CircularProgressIndicator(),
                     )
                   : Form(
