@@ -36,7 +36,7 @@ dependencies:
   json_annotation: ^4.5.0
   cached_network_image: ^3.2.1
   permission_handler: ^10.0.0
-  infinite_scroll_pagination: ^3.2.0
+  infinite_scroll_pagination: ^3.2.0 
   path_provider: ^2.0.11
   image_picker: ^0.8.5+3
   file_picker: ^5.0.1
@@ -45,6 +45,10 @@ dependencies:
   smooth_page_indicator: ^1.0.1
   image_picker_windows: ^0.1.0+6
   flutter_styled_toast: ^2.0.0
+  geocoding: ^2.1.0
+  geolocator: ^9.0.2
+  google_maps_flutter: ^2.3.0
+  location: ^4.4.0
   window_size:
     git:
       url: https://github.com/google/flutter-desktop-embedding

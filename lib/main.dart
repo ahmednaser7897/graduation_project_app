@@ -2,9 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:graduation_project/app/extensions.dart';
 import 'package:window_size/window_size.dart';
-
 import 'app/bloc_observer.dart';
 import 'app/di/di.dart';
 import 'my_app.dart';
